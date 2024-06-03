@@ -4,23 +4,23 @@
         "faculties" : {
             "DEI Technical College": {
                 "description": "Description for Faculty of Science",
-                "name": "DEI Technical College"
+                "facultyName": "DEI Technical College"
               },
               "Faculty of Architecture": {
                 "description": "Description for Faculty of Architecture",
-                "name": "Faculty of Architecture"
+                "facultyName": "Faculty of Architecture"
               },
               "Faculty of Arts": {
                 "description": "Description for Faculty of Arts",
-                "name": "Faculty of Arts"
+                "facultyName": "Faculty of Arts"
               },
               "Faculty of Commerece": {
                 "description": "Description for Faculty of Commerece",
-                "name": "Faculty of Commerece"
+                "facultyName": "Faculty of Commerece"
               },
               "Faculty of Education": {
                 "description": "Description for Faculty of Education",
-                "name": "Faculty of Education"
+                "facultyName": "Faculty of Education"
               },
               "Faculty of Engineering": {
                 "1stYear": {
@@ -6242,10 +6242,10 @@
                   }
                 },
                 "description": "Description for Faculty of Engineering",
-                "name": "Faculty of Engineering"
+                "facultyName": "Faculty of Engineering"
               },
               "Faculty of Science": {
-                "name": "Faculty of Science"
+                "facultyName": "Faculty of Science"
               }
     }
 
