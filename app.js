@@ -11,12 +11,28 @@ app.get('/faculties', (req, res) => {
 });
 
 // Endpoint for courses
-app.get('/faculties/:facultyName/branches/:branchName/semesters/:semesterName/subjects', (req, res) => {
+/*app.get('/faculties/:facultyName/branches/:branchName/semesters/:semesterName/subjects', (req, res) => {
   const facultyName = req.params.facultyName;
   const branchName = req.params.branchName;
   const semesterName = req.params.semesterName;
   if (data["Material DB"]["faculties"][facultyName] && data["Material DB"]["faculties"][facultyName]["branches"][branchName] && data["Material DB"]["faculties"][facultyName]["branches"][branchName][semesterName]) {
     res.json(Object.keys(data["Material DB"]["faculties"][facultyName]["branches"][branchName][semesterName]).filter(key => key !== 'semesterName' && key !== 'branchName'));
+  } else {
+    res.status(404).send('Faculty, branch, or semester not found');
+  }
+}); */
+
+
+app.get('/faculties/:facultyName/branches/:branchName/semesters/:semesterName/subjects', (req, res) => {
+  const facultyName = req.params.facultyName;
+  const branchName = req.params.branchName;
+  const semesterName = req.params.semesterName;
+
+  if (data["Material DB"]["faculties"][facultyName] && 
+      data["Material DB"]["faculties"][facultyName]["branches"][branchName] && 
+      data["Material DB"]["faculties"][facultyName]["branches"][branchName][semesterName]) {
+
+    res.json(data["Material DB"]["faculties"][facultyName]["branches"][branchName][semesterName]);
   } else {
     res.status(404).send('Faculty, branch, or semester not found');
   }
