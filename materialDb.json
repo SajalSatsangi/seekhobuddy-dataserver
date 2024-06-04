@@ -15,16 +15,7 @@
                 },
                 "subjectName": "MAM181"
               },
-              "MEM101": {
-                "Question Paper": {
-                  "ENDSEM": {
-                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
-                    "pdfName": "ENDSEM"
-                  },
-                  "materialName": "Question Paper"
-                },
-                "subjectName": "MEM101"
-              },
+
               "PHM181": {
                 "Question Paper": {
                   "ALL": {
@@ -44,6 +35,16 @@
                   "materialName": "Question Paper"
                 },
                 "subjectName": "MEM103"
+              },
+              "MEM101": {
+                "Question Paper": {
+                  "ENDSEM": {
+                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
+                    "pdfName": "ENDSEM"
+                  },
+                  "materialName": "Question Paper"
+                },
+                "subjectName": "MEM101"
               },
               "RDC181": {
                 "Question Paper": {
