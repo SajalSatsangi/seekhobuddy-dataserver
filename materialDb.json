@@ -39,7 +39,7 @@
               "MEM101": {
                 "Question Paper": {
                   "ENDSEM": {
-                    "link": "https://drive.google.com/uc?export=view&id=1ukCLfMXiCTiMaQ58PsG6w51CCCkbSjEw",
+                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
                     "pdfName": "ENDSEM"
                   },
                   "materialName": "Question Paper"
@@ -167,18 +167,47 @@
             },
             "branchName": "Mechanical"
           },
-          "Mechanical": {
+          "Civil": {
             "Semester 3": {
               "Question Paper": {
                 "CT1": {
                   "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
                   "pdfName": "CT1"
                 },
+                "CT2": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT2"
+                },
+                "ENDSEM": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "ENDSEM"
+                },
                 "materialName": "Question Paper"
               },
               "semesterName": "Semester 3"
             },
-            "branchName": "Mechanical"
+            "branchName": "Civil"
+          },
+          "Footwear": {
+            "Semester 3": {
+              "Question Paper": {
+                "CT1": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT1"
+                },
+                "CT2": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT2"
+                },
+                "ENDSEM": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "ENDSEM"
+                },
+                "materialName": "Question Paper"
+              },
+              "semesterName": "Semester 3"
+            },
+            "branchName": "Footwear"
           }
         },
         "description": "Description for Faculty of Engineering",
