@@ -23,18 +23,6 @@
                 "facultyName": "Faculty of Education"
               },
               "Faculty of Engineering": {
-                "1stYear": {
-                  "Semester 1": {
-                    "BBH101": {
-                      "hiii": {
-                        "materialName": "hiii"
-                      },
-                      "tessssttt": {
-                        "materialName": "tessssttt"
-                      }
-                    }
-                  }
-                },
                 "branches": {
                   "1stYear": {
                     "Semester 1": {
