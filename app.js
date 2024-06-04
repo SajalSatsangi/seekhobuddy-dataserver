@@ -1,9 +1,31 @@
 const express = require('express');
 const app = express();
 const port = 3000; // or any other port you prefer
-const data = require('./materialDb.json'); // Assuming your JSON data is in data.json file
+const fs = require('fs');
 const bodyParser = require('body-parser');
 app.use(bodyParser.json());
+
+// Function to read data from file
+const readDataFromFile = () => {
+  try {
+    const rawData = fs.readFileSync('./materialDb.json');
+    return JSON.parse(rawData);
+  } catch (error) {
+    console.error('Error reading file:', error);
+    return { "Material DB": {} };
+  }
+};
+
+// Function to write data to file
+const writeDataToFile = (data) => {
+  try {
+    fs.writeFileSync('./materialDb.json', JSON.stringify(data, null, 2));
+  } catch (error) {
+    console.error('Error writing to file:', error);
+  }
+};
+
+let data = readDataFromFile();
 
 // Endpoint for explore courses
 app.get('/faculties', (req, res) => {
@@ -15,8 +37,12 @@ app.get('/faculties', (req, res) => {
   const facultyName = req.params.facultyName;
   const branchName = req.params.branchName;
   const semesterName = req.params.semesterName;
-  if (data["Material DB"]["faculties"][facultyName] && data["Material DB"]["faculties"][facultyName]["branches"][branchName] && data["Material DB"]["faculties"][facultyName]["branches"][branchName][semesterName]) {
-    res.json(Object.keys(data["Material DB"]["faculties"][facultyName]["branches"][branchName][semesterName]).filter(key => key !== 'semesterName' && key !== 'branchName'));
+
+  if (data["Material DB"]["faculties"][facultyName] && 
+      data["Material DB"]["faculties"][facultyName]["branches"][branchName] && 
+      data["Material DB"]["faculties"][facultyName]["branches"][branchName][semesterName]) {
+
+    res.json(data["Material DB"]["faculties"][facultyName]["branches"][branchName][semesterName]);
   } else {
     res.status(404).send('Faculty, branch, or semester not found');
   }
@@ -63,11 +89,14 @@ app.post('/faculties/:facultyName/branches/:branchName/semesters/:semesterName/s
           "materialName": newMaterial.materialName
       };
 
+      // Write changes to file
+      writeDataToFile(data);
       res.status(201).send('New material added');
   } else {
       res.status(404).send('Faculty, branch, semester, or subject not found');
   }
 });
+
 
 
 
@@ -108,11 +137,14 @@ app.post('/faculties/:facultyName/branches/:branchName/semesters/:semesterName/s
           "link": newMaterial.link
       };
 
+      // Write changes to file
+      writeDataToFile(data);
       res.status(201).send('New material added');
   } else {
-      res.status(404).send('Faculty, branch, semester, or subject not found');
+      res.status(404).send('Faculty, branch, semester, subject, or material not found');
   }
 });
+
 
 
 
