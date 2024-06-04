@@ -132,6 +132,53 @@
               "semesterName": "Semester 2"
             },
             "branchName": "1stYear"
+          },
+          "Electrical": {
+            "Semester 3": {
+              "Question Paper": {
+                "CT1": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT1"
+                },
+                "CT2": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT2"
+                },
+                "ENDSEM": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "ENDSEM"
+                },
+                "materialName": "Question Paper"
+              },
+              "semesterName": "Semester 3"
+            },
+            "branchName": "Electrical"
+          },
+          "Mechanical": {
+            "Semester 3": {
+              "Question Paper": {
+                "CT1": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT1"
+                },
+                "materialName": "Question Paper"
+              },
+              "semesterName": "Semester 3"
+            },
+            "branchName": "Mechanical"
+          },
+          "Mechanical": {
+            "Semester 3": {
+              "Question Paper": {
+                "CT1": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT1"
+                },
+                "materialName": "Question Paper"
+              },
+              "semesterName": "Semester 3"
+            },
+            "branchName": "Mechanical"
           }
         },
         "description": "Description for Faculty of Engineering",
