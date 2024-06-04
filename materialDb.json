@@ -1,26 +1,6 @@
 {
   "Material DB": {
     "faculties": {
-      "DEI Technical College": {
-        "description": "Description for Faculty of Science",
-        "facultyName": "DEI Technical College"
-      },
-      "Faculty of Architecture": {
-        "description": "Description for Faculty of Architecture",
-        "facultyName": "Faculty of Architecture"
-      },
-      "Faculty of Arts": {
-        "description": "Description for Faculty of Arts",
-        "facultyName": "Faculty of Arts"
-      },
-      "Faculty of Commerece": {
-        "description": "Description for Faculty of Commerece",
-        "facultyName": "Faculty of Commerece"
-      },
-      "Faculty of Education": {
-        "description": "Description for Faculty of Education",
-        "facultyName": "Faculty of Education"
-      },
       "Faculty of Engineering": {
         "branches": {
           "1stYear": {
@@ -155,10 +135,6 @@
         },
         "description": "Description for Faculty of Engineering",
         "facultyName": "Faculty of Engineering"
-      },
-      "Faculty of Science": {
-        "description": "Description for Faculty of Science",
-        "facultyName": "Faculty of Science"
       }
     }
   }
