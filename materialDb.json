@@ -86,8 +86,70 @@
                 "subjectName": "CHM181"
               },
               "branchName": "1stYear"
+            },
+            "Semester 2": {
+              "EEM202": {
+                "Question Paper": {
+                  "ALL": {
+                    "link": "https://drive.google.com/uc?export=view&id=1De3gvHiRxHp0tNl-CvbNEX1Dn59Emnag",
+                    "pdfName": "ALL"
+                  },
+                  "materialName": "Question Paper"
+                },
+                "subjectName": "EEM202"
+              },
+              "EEM201": {
+                "Question Paper": {
+                  "ALL": {
+                    "link": "https://drive.google.com/uc?export=view&id=1De3gvHiRxHp0tNl-CvbNEX1Dn59Emnag",
+                    "pdfName": "ALL"
+                  },
+                  "materialName": "Question Paper"
+                },
+                "subjectName": "EEM201"
+              },
+              "MAM281": {
+                "Question Paper": {
+                  "ALL": {
+                    "link": "https://drive.google.com/uc?export=view&id=1De3gvHiRxHp0tNl-CvbNEX1Dn59Emnag",
+                    "pdfName": "ALL"
+                  },
+                  "materialName": "Question Paper"
+                },
+                "subjectName": "MAM281"
+              },
+              "MEM202": {
+                "Question Paper": {
+                  "ALL": {
+                    "link": "https://drive.google.com/uc?export=view&id=1De3gvHiRxHp0tNl-CvbNEX1Dn59Emnag",
+                    "pdfName": "ALL"
+                  },
+                  "materialName": "Question Paper"
+                },
+                "subjectName": "MEM202"
+              },
+              "PHM281": {
+                "Question Paper": {
+                  "ALL": {
+                    "link": "https://drive.google.com/uc?export=view&id=1De3gvHiRxHp0tNl-CvbNEX1Dn59Emnag",
+                    "pdfName": "ALL"
+                  },
+                  "materialName": "Question Paper"
+                },
+                "subjectName": "PHM281"
+              },
+              "MEM201": {
+                "Question Paper": {
+                  "ALL": {
+                    "link": "https://drive.google.com/uc?export=view&id=1De3gvHiRxHp0tNl-CvbNEX1Dn59Emnag",
+                    "pdfName": "ALL"
+                  },
+                  "materialName": "Question Paper"
+                },
+                "subjectName": "MEM201"
+              },
+              "branchName": "1stYear"
             }
-             
           },
           "description": "Description for Faculty of Engineering",
           "facultyName": "Faculty of Engineering"
