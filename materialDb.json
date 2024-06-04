@@ -7,29 +7,47 @@
             "Semester 1": {
               "MAM181": {
                 "Question Paper": {
-                  "ALL": {
-                    "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
-                    "pdfName": "ALL"
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT1"
+                  },
+                  "CT2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT2"
+                  },
+                  "ENDSEM": {
+                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
+                    "pdfName": "ENDSEM"
+                  },
+                  "CT2-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT2-2"
+                  },
+                  "ENDSEM-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
+                    "pdfName": "ENDSEM-2"
                   },
                   "materialName": "Question Paper"
                 },
                 "subjectName": "MAM181"
               },
-              "MEM101": {
+              "PHM181": {
                 "Question Paper": {
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT1"
+                  },
+                  "CT2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT2"
+                  },
                   "ENDSEM": {
                     "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
                     "pdfName": "ENDSEM"
                   },
-                  "materialName": "Question Paper"
-                },
-                "subjectName": "MEM101"
-              },
-              "PHM181": {
-                "Question Paper": {
-                  "ALL": {
-                    "link": "https://drive.google.com/uc?export=view&id=1Lh37zW1j5WcN8ECYJYvahVpuz-dBJuWw",
-                    "pdfName": "ALL"
+                  "ENDSEM-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
+                    "pdfName": "ENDSEM-2"
                   },
                   "materialName": "Question Paper"
                 },
@@ -41,9 +59,35 @@
                     "link": "https://drive.google.com/uc?export=view&id=182sp_ooqjDX-rsyCrzH3xkYzD0o3jz_Q",
                     "pdfName": "CT2"
                   },
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT1"
+                  },
+                  "ENDSEM": {
+                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
+                    "pdfName": "ENDSEM"
+                  },
                   "materialName": "Question Paper"
                 },
                 "subjectName": "MEM103"
+              },
+              "MEM101": {
+                "Question Paper": {
+                  "ENDSEM": {
+                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
+                    "pdfName": "ENDSEM"
+                  },
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT1"
+                  },
+                  "ENDSEM-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
+                    "pdfName": "ENDSEM-2"
+                  },
+                  "materialName": "Question Paper"
+                },
+                "subjectName": "MEM101"
               },
               "RDC181": {
                 "Question Paper": {
@@ -57,9 +101,25 @@
               },
               "CHM181": {
                 "Question Paper": {
-                  "ALL": {
+                  "CT1": {
                     "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
-                    "pdfName": "ALL"
+                    "pdfName": "CT1"
+                  },
+                  "CT2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT2"
+                  },
+                  "ENDSEM": {
+                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
+                    "pdfName": "ENDSEM"
+                  },
+                  "CT2-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT2-2"
+                  },
+                  "ENDSEM-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1_AviU60hDBiBJLVapRExE_OyyCskEUz2",
+                    "pdfName": "ENDSEM-2"
                   },
                   "materialName": "Question Paper"
                 },
@@ -70,19 +130,93 @@
             "Semester 2": {
               "EEM202": {
                 "Question Paper": {
-                  "ALL": {
+                  "ENDSEM": {
                     "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
-                    "pdfName": "ALL"
+                    "pdfName": "ENDSEM"
+                  },
+                  "ENDSEM-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-2"
+                  },
+                  "ENDSEM-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-3"
+                  },
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1"
+                  },
+                  "CT1-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1-2"
+                  },
+                  "CT2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2"
+                  },
+                  "CT2-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-2"
+                  },
+                  "CT2-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-3"
                   },
                   "materialName": "Question Paper"
                 },
                 "subjectName": "EEM202"
               },
+              "ESC281": {
+                "Question Paper": {
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1"
+                  },
+                  "CT2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2"
+                  },
+                  "CT2-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-2"
+                  },
+                  "materialName": "Question Paper"
+                },
+                "subjectName": "ESC281"
+              },
               "EEM201": {
                 "Question Paper": {
-                  "ALL": {
-                    "link": "https://drive.google.com/uc?export=view&id=1Huk3B6lycIAeMWXIwlDblp4qWGDNdDpw",
-                    "pdfName": "ALL"
+                  "ENDSEM": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM"
+                  },
+                  "ENDSEM-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-2"
+                  },
+                  "ENDSEM-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-3"
+                  },
+                  "CT2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2"
+                  },
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1"
+                  },
+                  "CT1-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1-2"
+                  },
+                  "CT2-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-2"
+                  },
+                  "CT2-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-3"
                   },
                   "materialName": "Question Paper"
                 },
@@ -90,9 +224,33 @@
               },
               "MAM281": {
                 "Question Paper": {
-                  "ALL": {
-                    "link": "https://drive.google.com/uc?export=view&id=1OegAdFCNBZmDMIN_9asUYnXZX7aqn42c",
-                    "pdfName": "ALL"
+                  "ENDSEM": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM"
+                  },
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1"
+                  },
+                  "CT2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2"
+                  },
+                  "CT2-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-2"
+                  },
+                  "CT1-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1-2"
+                  },
+                  "CT2-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-3"
+                  },
+                  "ENDSEM-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-2"
                   },
                   "materialName": "Question Paper"
                 },
@@ -100,9 +258,37 @@
               },
               "MEM202": {
                 "Question Paper": {
-                  "ALL": {
-                    "link": "https://drive.google.com/uc?export=view&id=1ITXA1Jw1DS_aW6-LzL0A5MOxabNdgeEW",
-                    "pdfName": "ALL"
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1"
+                  },
+                  "CT1-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1-2"
+                  },
+                  "CT2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2"
+                  },
+                  "CT2-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-2"
+                  },
+                  "CT2-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-3"
+                  },
+                  "ENDSEM": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM"
+                  },
+                  "ENDSEM-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-2"
+                  },
+                  "ENDSEM-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-3"
                   },
                   "materialName": "Question Paper"
                 },
@@ -110,9 +296,37 @@
               },
               "PHM281": {
                 "Question Paper": {
-                  "ALL": {
-                    "link": "https://drive.google.com/uc?export=view&id=1GhyEAlc6hO6d8b3VrPJ6_WF4BQzNZkbd",
-                    "pdfName": "ALL"
+                  "ENDSEM": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM"
+                  },
+                  "ENDSEM-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-2"
+                  },
+                  "ENDSEM-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-3"
+                  },
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1"
+                  },
+                  "CT1-1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1-1"
+                  },
+                  "CT2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2"
+                  },
+                  "CT2-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-2"
+                  },
+                  "CT2-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-3"
                   },
                   "materialName": "Question Paper"
                 },
@@ -120,9 +334,37 @@
               },
               "MEM201": {
                 "Question Paper": {
-                  "ALL": {
-                    "link": "https://drive.google.com/uc?export=view&id=1De3gvHiRxHp0tNl-CvbNEX1Dn59Emnag",
-                    "pdfName": "ALL"
+                  "CT1": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT1"
+                  },
+                  "CT1-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT1-2"
+                  },
+                  "CT2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2"
+                  },
+                  "CT2-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "CT2-2"
+                  },
+                  "CT2-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1ugzgk0_05qMAq5JndgvkeOgLFtUTFs11",
+                    "pdfName": "CT2-3"
+                  },
+                  "ENDSEM": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM"
+                  },
+                  "ENDSEM-2": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-2"
+                  },
+                  "ENDSEM-3": {
+                    "link": "https://drive.google.com/uc?export=view&id=1EcIig-oy6WwAdH9XSaYVTgfV92fgMHFN",
+                    "pdfName": "ENDSEM-3"
                   },
                   "materialName": "Question Paper"
                 },
@@ -131,6 +373,82 @@
               "semesterName": "Semester 2"
             },
             "branchName": "1stYear"
+          },
+          "Electrical": {
+            "Semester 3": {
+              "Question Paper": {
+                "CT1": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT1"
+                },
+                "CT2": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT2"
+                },
+                "ENDSEM": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "ENDSEM"
+                },
+                "materialName": "Question Paper"
+              },
+              "semesterName": "Semester 3"
+            },
+            "branchName": "Electrical"
+          },
+          "Mechanical": {
+            "Semester 3": {
+              "Question Paper": {
+                "CT1": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT1"
+                },
+                "materialName": "Question Paper"
+              },
+              "semesterName": "Semester 3"
+            },
+            "branchName": "Mechanical"
+          },
+          "Civil": {
+            "Semester 3": {
+              "Question Paper": {
+                "CT1": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT1"
+                },
+                "CT2": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT2"
+                },
+                "ENDSEM": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "ENDSEM"
+                },
+                "materialName": "Question Paper"
+              },
+              "semesterName": "Semester 3"
+            },
+            "branchName": "Civil"
+          },
+          "Footwear": {
+            "Semester 3": {
+              "Question Paper": {
+                "CT1": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT1"
+                },
+                "CT2": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "CT2"
+                },
+                "ENDSEM": {
+                  "link": "https://drive.google.com/uc?export=view&id=1Tz3oxLC4Q6oHmLhSZ0KpwdjwQef9759G",
+                  "pdfName": "ENDSEM"
+                },
+                "materialName": "Question Paper"
+              },
+              "semesterName": "Semester 3"
+            },
+            "branchName": "Footwear"
           }
         },
         "description": "Description for Faculty of Engineering",
